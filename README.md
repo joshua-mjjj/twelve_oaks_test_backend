@@ -4,7 +4,7 @@
 Clone project and change directory to project folder
 
 ```
-git clone https://github.com/DataLabCocis/sonoreader-api.git
+git clone https://github.com/joshua-mjjj/twelve_oaks_test_backend.git
 ```
 
 Create a virtual env with 
