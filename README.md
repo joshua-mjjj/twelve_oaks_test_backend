@@ -33,8 +33,12 @@ python manage.py runserver
 ```
 
 Running Tests. 
+```
 Unit Test 1: Get restaurants data
+
 Unit Test 2: Get restaurant detail data
+
+```
 
 Run Tests 
 ```
